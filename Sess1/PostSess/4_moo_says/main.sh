@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 echo "What does the cow say... "
 read cla
