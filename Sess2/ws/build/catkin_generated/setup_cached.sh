@@ -7,7 +7,5 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/hawcker/auv-stuff/Sess2/ws/devel:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/home/hawcker/auv-stuff/Sess2/ws/devel/lib:$LD_LIBRARY_PATH"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/hawcker/auv-stuff/Sess2/ws/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/hawcker/auv-stuff/Sess2/ws/src:$ROS_PACKAGE_PATH"
+export PWD='/home/hawcker/auv-stuff/Sess2/ws/build'
+export PYTHONPATH="/home/hawcker/auv-stuff/Sess2/ws/devel/lib/python3/dist-packages:$PYTHONPATH"

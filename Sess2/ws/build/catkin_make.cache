@@ -1,2 +1,2 @@
-
+test_pkg
 -DCATKIN_DEVEL_PREFIX=/home/hawcker/auv-stuff/Sess2/ws/devel -DCMAKE_INSTALL_PREFIX=/home/hawcker/auv-stuff/Sess2/ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/hawcker/auv-stuff/Sess2/new_ws/devel
+
+Name: tuts
+Description: Description of tuts
+Version: 0.0.0
+Cflags: -I/home/hawcker/auv-stuff/Sess2/new_ws/devel/include -I/home/hawcker/auv-stuff/Sess2/new_ws/src/tuts/include
+Libs: -L${prefix}/lib -ltuts
+Requires: roscpp rospy std_msgs message_runtime

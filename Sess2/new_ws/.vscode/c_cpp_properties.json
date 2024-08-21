@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/hawcker/auv-stuff/Sess2/new_ws/devel/include/**",
+        "/home/hawcker/auv-stuff/Sess2/ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/hawcker/auv-stuff/Sess2/ws/src/test_pkg/include/**",
+        "/home/hawcker/auv-stuff/Sess2/new_ws/src/tuts/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
