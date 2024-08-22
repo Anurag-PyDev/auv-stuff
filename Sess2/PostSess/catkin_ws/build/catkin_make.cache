@@ -1,2 +1,2 @@
-sess2_questions
+task1:task2
 -DCATKIN_DEVEL_PREFIX=/home/hawcker/auv-stuff/Sess2/PostSess/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hawcker/auv-stuff/Sess2/PostSess/catkin_ws/install -G Unix Makefiles
