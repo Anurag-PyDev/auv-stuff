@@ -131,6 +131,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/hawcker/auv-stuff/Sess2/PostSess/catkin_ws/build/gtest/cmake_install.cmake")
+  include("/home/hawcker/auv-stuff/Sess2/PostSess/catkin_ws/build/bonus_task/cmake_install.cmake")
   include("/home/hawcker/auv-stuff/Sess2/PostSess/catkin_ws/build/task1/cmake_install.cmake")
   include("/home/hawcker/auv-stuff/Sess2/PostSess/catkin_ws/build/task2/cmake_install.cmake")
 

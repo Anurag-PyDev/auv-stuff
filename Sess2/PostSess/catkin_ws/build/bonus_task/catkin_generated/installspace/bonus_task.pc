@@ -1,0 +1,8 @@
+prefix=/home/hawcker/auv-stuff/Sess2/PostSess/catkin_ws/install
+
+Name: bonus_task
+Description: Description of bonus_task
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

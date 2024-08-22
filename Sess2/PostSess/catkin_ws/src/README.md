@@ -7,4 +7,4 @@ Task2:
 Here, we take the node name as input during startup. All the different nodes publish data to topic "channel", while also being subscribed to the topic "channel", so data sent by any node to "channel" is printed to all the other nodes. Incase, a node with the same name is already running the older one is shutdown and the newer one continues to run. 
 
 Bonus Task:
-(still on it...)
+This works similiar to task2 nodes, but just before a node publishes its message, it unregisters from subcribing to the topic "chat" and then after its message is published and all other nodes recieve the message, the sender node subscribes back to the topic "chat".
