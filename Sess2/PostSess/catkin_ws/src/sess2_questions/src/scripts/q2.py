@@ -16,7 +16,7 @@ if __name__ == '__main__':
 
     rate = rospy.Rate(10)
     while 1:
-        temp = input("--- : ")
+        temp = input()
         data = String(temp)
     
         pub.publish(data)
